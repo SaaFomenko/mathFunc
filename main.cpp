@@ -5,13 +5,6 @@
 
 int main()
 {
-	enum id_msg
-	{
-		num1,
-		num2,
-		oper
-	};
-
 	enum id_oper
 	{
 		add = 1,
